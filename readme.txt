@@ -5,3 +5,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 >>>>>>> feature1
 update note.
+
+Try update to github.
